@@ -32,7 +32,7 @@ public class PostAlumnos extends AsyncTask<URL, String, String> {
             conexion.setDoOutput(true);
             conexion.setDoInput(true);
             conexion.setFixedLengthStreamingMode(jsonPost.length());
-            conexion.setRequestProperty("Content-Type", "192.168.0.15/x-www-form-urlencoded;charset=UTF-8");
+            conexion.setRequestProperty("Content-Type", "172.20.2.236/x-www-form-urlencoded;charset=UTF-8");
             OutputStream flujoSalida = new BufferedOutputStream(conexion.getOutputStream());
             flujoSalida.write(jsonPost.getBytes());
             flujoSalida.flush();

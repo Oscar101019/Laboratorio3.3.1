@@ -51,7 +51,7 @@ public class UpdateActivity extends AppCompatActivity implements ServerResponse{
                     datosAlumnos.put("direccion", URLEncoder.encode(txtdireccion.getText().toString(), "utf-8"));
                     try {
                         conexionservidor.getJSON(String.valueOf(datosAlumnos));
-                        URL url = new URL("http://192.168.0.15/datos1/actualizar_alumno.php");
+                        URL url = new URL("http://172.20.2.236/datos1/actualizar_alumno.php");
                         conexionservidor.execute(url);
                     } catch (MalformedURLException e) {
                         e.printStackTrace();

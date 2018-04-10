@@ -64,7 +64,7 @@ public class AdapterDatos extends RecyclerView.Adapter<AdapterDatos.ViewHolderDa
                                     datosAlumnos.put("idalumno", holder.idAlumno.getText().toString());
                                     try {
                                         conexionservidor.getJSON(String.valueOf(datosAlumnos));
-                                        URL url = new URL("http://192.168.0.15/datos1/borrar_alumno.php");
+                                        URL url = new URL("http://172.20.2.236/datos1/borrar_alumno.php");
                                         conexionservidor.execute(url);
                                         listDatos.remove(position);
                                         notifyDataSetChanged();

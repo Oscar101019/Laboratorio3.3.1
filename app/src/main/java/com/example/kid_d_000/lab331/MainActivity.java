@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements ServerResponse {
                     datosAlumnos.put("direccion", URLEncoder.encode(direccion.getText().toString(), "utf-8"));
                     try {
                         conexionservidor.getJSON(String.valueOf(datosAlumnos));
-                        URL url = new URL("http://192.168.0.15/datos1/insertar_alumno.php");
+                        URL url = new URL("http://172.20.2.236/datos1/insertar_alumno.php");
                         conexionservidor.execute(url);
                     } catch (MalformedURLException e) {
                         e.printStackTrace();

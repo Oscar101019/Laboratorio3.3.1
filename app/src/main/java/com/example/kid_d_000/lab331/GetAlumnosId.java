@@ -33,7 +33,7 @@ public class GetAlumnosId extends AsyncTask<Void, Void, Void> {
     protected Void doInBackground(Void... voids) {
         try {
             listDatos = new ArrayList<>();
-            URL url = new URL("http://192.168.0.15/datos1/obtener_alumno_por_id.php?idalumno=" + id);
+            URL url = new URL("http://172.20.2.236/datos1/obtener_alumno_por_id.php?idalumno=" + id);
             HttpURLConnection httpURLConnection = (HttpURLConnection) url.openConnection();
             InputStream inputStream = httpURLConnection.getInputStream();
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
