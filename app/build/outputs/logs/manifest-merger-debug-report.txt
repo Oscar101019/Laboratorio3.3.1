@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/87fc029fe6959ea6f4535304dc297159/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/oscar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d9f51b8a1b34bb702a8a56a63070aa52/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/91c48303ac157670a3c256b58a080de0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/6bd98fc53f6004b6a1865df7d8abd761/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/4c2fcbb4816dd8e48ab767e67b3aa7ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/7b7a3edae65b1c3289e9a6f468eb45a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/8551db6274bd0323d6e4bedc1d3726c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9f95ed1a8a875e1b55d01e2caa30191e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/ac65b16d47f69d89b8f00ba5346211b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4fb37db506ca1f5e02ab84f602ff30a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9501af29a228f10e48d436e2497ef706/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/45e2fd03d21e65284df6378b491206e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a8c7a0a503233cc2d416b66252f16465/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/743c9f55629177ace7af9baef2706536/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/oscar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d9f51b8a1b34bb702a8a56a63070aa52/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/oscar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d9f51b8a1b34bb702a8a56a63070aa52/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.kid_d_000.lab331.MainActivity
+ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:18:27-74
+meta-data#preloaded_fonts
+ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:22:9-24:57
+	android:resource
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:24:13-54
+	android:name
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:23:13-43
+activity#com.example.kid_d_000.lab331.UpdateActivity
+ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml:26:19-49
+uses-sdk
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/87fc029fe6959ea6f4535304dc297159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/87fc029fe6959ea6f4535304dc297159/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/oscar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d9f51b8a1b34bb702a8a56a63070aa52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/oscar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d9f51b8a1b34bb702a8a56a63070aa52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/91c48303ac157670a3c256b58a080de0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/91c48303ac157670a3c256b58a080de0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/6bd98fc53f6004b6a1865df7d8abd761/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/6bd98fc53f6004b6a1865df7d8abd761/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/4c2fcbb4816dd8e48ab767e67b3aa7ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/4c2fcbb4816dd8e48ab767e67b3aa7ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/7b7a3edae65b1c3289e9a6f468eb45a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/7b7a3edae65b1c3289e9a6f468eb45a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/8551db6274bd0323d6e4bedc1d3726c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/8551db6274bd0323d6e4bedc1d3726c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9f95ed1a8a875e1b55d01e2caa30191e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9f95ed1a8a875e1b55d01e2caa30191e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/ac65b16d47f69d89b8f00ba5346211b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/ac65b16d47f69d89b8f00ba5346211b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4fb37db506ca1f5e02ab84f602ff30a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/4fb37db506ca1f5e02ab84f602ff30a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9501af29a228f10e48d436e2497ef706/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9501af29a228f10e48d436e2497ef706/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/45e2fd03d21e65284df6378b491206e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/45e2fd03d21e65284df6378b491206e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a8c7a0a503233cc2d416b66252f16465/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a8c7a0a503233cc2d416b66252f16465/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/743c9f55629177ace7af9baef2706536/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/oscar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/743c9f55629177ace7af9baef2706536/AndroidManifest.xml:20:5-44
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+		ADDED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oscar/Moviles/Unidad3/Laboratorio3.3.1/app/src/main/AndroidManifest.xml
